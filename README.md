@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-### 123
+## 123
 
 You can use the [editor on GitHub](https://github.com/longjohnsilvah/premier-depot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,3 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## git pull
+
+Avec cette commande on va pouvoir récupérer le projet distant mis à jour sur notre dépot local
+
+## git clone
+
+Cette commande permet de récuperer une copie d'un dépot distant sur notre machine.
+On peut ainsi travailler en local avec VSCode, ce qui est plus pratique que de travailler directement sur github.
